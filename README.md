@@ -1,12 +1,10 @@
-# Dawn
+# The Berm
 
 A highly functional [Ghost](https://github.com/TryGhost/Ghost) theme that adapts to the reader's preferences. Let them read, search, subscribe, navigate, and more with ease.
 
-**Demo: https://dawn.ghost.io**
-
 # Instructions
 
-1. [Download this theme](https://github.com/TryGhost/Dawn/archive/main.zip)
+1. Download this theme (**link tbd**)
 2. Log into Ghost, and go to the `Design` settings area to upload the zip file
 
 # Development
@@ -23,7 +21,7 @@ yarn dev
 
 Now you can edit `/assets/css/` files, which will be compiled to `/assets/built/` automatically.
 
-The `zip` Gulp task packages the theme files into `dist/dawn.zip`, which you can then upload to your site.
+The `zip` Gulp task packages the theme files into `dist/the-berm.zip`, which you can then upload to your site.
 
 ```bash
 yarn zip
