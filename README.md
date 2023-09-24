@@ -7,9 +7,9 @@ A highly functional [Ghost](https://github.com/TryGhost/Ghost) theme that adapts
 1. Download this theme (**link tbd**)
 2. Log into Ghost, and go to the `Design` settings area to upload the zip file
 
-# Development
+# Theme Development
 
-Styles are compiled using Gulp/PostCSS to polyfill future CSS spec. You'll need [Node](https://nodejs.org/), [Yarn](https://yarnpkg.com/) and [Gulp](https://gulpjs.com) installed globally. After that, from the theme's root directory:
+Styles are compiled using Gulp/PostCSS to polyfill future CSS spec. You'll need [Node](https://nodejs.org/), [Yarn](https://yarnpkg.com/) and [Gulp](https://gulpjs.com) installed globally (which you will get automatically if you have devbox setup). After that, from the theme's root directory:
 
 ```bash
 # Install
@@ -26,6 +26,14 @@ The `zip` Gulp task packages the theme files into `dist/the-berm.zip`, which you
 ```bash
 yarn zip
 ```
+
+# Site Development
+
+To actually develop the site and not just the theme:
+
+1. `cd site && npx ghost install`
+1. ????????????
+1. Give up?????
 
 # Contribution
 

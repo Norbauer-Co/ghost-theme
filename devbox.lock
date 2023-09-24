@@ -1,17 +1,23 @@
 {
   "lockfile_version": "1",
   "packages": {
+    "difftastic@latest": {
+      "last_modified": "2023-09-19T14:14:51Z",
+      "resolved": "github:NixOS/nixpkgs/8b5ab8341e33322e5b66fb46ce23d724050f6606#difftastic",
+      "source": "devbox-search",
+      "version": "0.51.1"
+    },
     "nodePackages.gulp-cli@2.3.0": {
       "last_modified": "2023-09-17T10:54:49Z",
       "resolved": "github:NixOS/nixpkgs/5148520bfab61f99fd25fb9ff7bfbb50dad3c9db#nodePackages.gulp-cli",
       "source": "devbox-search",
       "version": "2.3.0"
     },
-    "nodejs@20.3.1": {
-      "last_modified": "2023-07-06T12:20:10Z",
-      "resolved": "github:NixOS/nixpkgs/5daaa32204e9c46b05cd709218b7ba733d07e80c#nodejs_20",
+    "nodejs@18.17.1": {
+      "last_modified": "2023-09-19T14:14:51Z",
+      "resolved": "github:NixOS/nixpkgs/8b5ab8341e33322e5b66fb46ce23d724050f6606#nodejs_18",
       "source": "devbox-search",
-      "version": "20.3.1"
+      "version": "18.17.1"
     },
     "yarn@1.22.19": {
       "last_modified": "2023-09-17T10:54:49Z",

@@ -120,6 +120,7 @@
     "gulp-zip": "5.1.0",
     "postcss": "8.4.30",
     "postcss-easy-import": "4.0.0",
-    "pump": "3.0.0"
+    "pump": "3.0.0",
+    "ghost-cli": "^1.24.2"
   }
 }
